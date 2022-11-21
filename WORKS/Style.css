@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  html{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgba(182, 182, 182, 0.911);
+    color: white;
+  }
+  section{
+    min-height: 600px;
+    background: url('pakata-goh-EJMTKCZ00I0-unsplash.jpg') center/cover no-repeat;
+  }
+  }
+
